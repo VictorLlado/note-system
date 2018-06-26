@@ -1,0 +1,11 @@
+.row{
+	margin-top: 70px;
+}
+.row button{
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.row ul{
+	float: right;
+}
+
